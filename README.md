@@ -1,2 +1,1 @@
-php master race
-the hub
+PHP master race
