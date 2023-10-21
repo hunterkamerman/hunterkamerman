@@ -1,8 +1,4 @@
-c
-a
-n
-d
-l
-e
-s
- space
+##todo
+- space cow candles either shopify or hydrogen
+- fix double down feature on gambling bot
+- finish portfolio
