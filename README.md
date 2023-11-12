@@ -1,3 +1,3 @@
 # I fine tune SDXL
 # &
-# make bots.
+# code bots.
